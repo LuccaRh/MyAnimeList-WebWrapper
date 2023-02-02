@@ -1,0 +1,17 @@
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\MyAimeList.exe
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\MyAimeList.deps.json
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\MyAimeList.runtimeconfig.json
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\MyAimeList.dll
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\MyAimeList.pdb
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.csproj.AssemblyReference.cache
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.AssemblyInfoInputs.cache
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.AssemblyInfo.cs
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.csproj.CoreCompileInputs.cache
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.csproj.CopyComplete
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.dll
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\refint\MyAimeList.dll
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.pdb
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\MyAimeList.genruntimeconfig.cache
+C:\Users\lucca\source\repos\MyAnimeListWebScrapper\MyAimeList\obj\Debug\net6.0\ref\MyAimeList.dll
